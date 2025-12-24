@@ -1,4 +1,4 @@
-const CACHE_NAME = 'pos-cache-v789';
+const CACHE_NAME = 'pos-cache-v229';
 const urlsToCache = [
   './',
   './index.html',

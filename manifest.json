@@ -1,6 +1,6 @@
 {
-  "name": "บัญชีขาย",
-  "short_name": "บัญชีขาย",
+  "name": "พี่ต้อย",
+  "short_name": "พี่ต้อย",
   "description": "แอปพลิเคชันจัดการการขายและสต็อกสินค้า",
   "start_url": "./index.html",
   "id": "lnwsaleaccount",
